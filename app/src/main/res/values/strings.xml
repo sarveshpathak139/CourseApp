@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="examinationscheme">Examination Scheme:</string>
+    <string-array name="examdetails">
+        <item>Exam Head:</item>
+        <item>IA:Internal Assesment:30</item>
+        <item>ICE:In-Course Exam:   30</item>
+        <item>ECE:End Course Exam:  40</item>
+        <item>Practical:30 Marks</item>
+        <item>Project:20 Marks</item>
+    </string-array>
+
+    <string name="contenttab">Course Content:</string>
+    <string-array name="coursecontent">
+        <item>Unit-1: Java Programming</item>
+        <item>Basics,loop, control</item>
+        <item>structure, OOPs</item>
+
+        <item>Unit-II: Android Platform</item>
+        <item>IDE, Intent, Navigation,</item>
+        <item>Menu</item>
+    </string-array>
+
+    <string-array name="practical_names">
+        <item>Practical 1</item>
+        <item>Practical 2</item>
+        <item>Practical 3</item>
+        <item>Practical 4</item>
+    </string-array>
+
+    <string-array name="practical_content">
+        <item>Create TicTacToe</item>
+        <item>Create Calculator</item>
+        <item>Create TabLayout</item>
+        <item>Create TabLayout add database</item>
+    </string-array>
+
+
+</resources>
